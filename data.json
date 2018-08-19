@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":"b1.jpg",
+		"name":"bhavani",
+		"phoneno":"7-098999999",
+		"emailid":"bhavani999@gmail.com",
+		"address":"takkellapadu."
+},
+"career":{
+	"info":"to purchase a challenging career and be a challenge"
+},
+"education":[
+	{
+		"qualification":"b.tech",
+		"institute":"vignan's nirula college",
+		"year":"2016-2020",
+		"percentage":"99%"
+	},
+	{
+	   "qualification":"inter",
+	   "college":"vignan",
+	   "year":"2014-2016",
+	   "percentage":"95%"
+	},
+	{
+		"qualification":"10th",
+		"school":"indian springs",
+		"year":"2013-2014",
+		"percentage":"90%"
+	}
+
+],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","java","python","r"]
+	},
+	{
+	"title":"databases",
+	"info":["oracle","sql","mysql"]
+},
+{
+"title":"operating systems",
+"info":["unix","windows","mac"]
+}
+],
+	"achievements":[{
+        "title":"first in singing"
+	},
+	{
+	
+	"title":"first in reading"
+},
+{
+	"title":"first in shuttle"
+}
+
+]
+}
